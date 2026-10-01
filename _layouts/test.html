@@ -1,0 +1,38 @@
+---
+layout: default
+---
+{% comment %}
+  Шаблон сторінки тесту. У front matter сторінки потрібні:
+  title, test_name (напр. "GAD-7"), tally_id, questions, minutes,
+  а сам текст сторінки (опис тесту) — у тілі файлу.
+  Застереження "скринінг, не діагноз" та інтерпретація результату —
+  всередині самої форми Tally.
+{% endcomment %}
+
+<section class="hero">
+  <p class="kicker"><a href="{{ '/samodopomoga/' | relative_url }}">Самодопомога</a> · тест {{ page.test_name }}</p>
+  <h1>{{ page.title }}</h1>
+  <div class="lede">{{ content }}</div>
+  <p class="post-meta">{{ page.questions }} запитань · близько {{ page.minutes }} хв · анонімно</p>
+</section>
+
+<section class="section">
+  <div class="tally-block">
+    <iframe data-tally-src="https://tally.so/embed/{{ page.tally_id }}?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+            loading="lazy" width="100%" height="600" frameborder="0"
+            title="{{ page.title }}"></iframe>
+  </div>
+  <a class="btn" href="{{ '/kontakty/' | relative_url }}">Записатись на консультацію</a>
+  {% if page.attribution %}
+  <p class="post-meta test-attribution">
+    {{ page.attribution }}
+    {% if page.attribution_url %}<a href="{{ page.attribution_url }}">Джерело</a>{% endif %}
+  </p>
+  {% endif %}
+</section>
+
+<section class="section">
+  {% include crisis.html %}
+</section>
+
+<script async src="https://tally.so/widgets/embed.js"></script>
