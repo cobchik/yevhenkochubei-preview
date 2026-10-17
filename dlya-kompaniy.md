@@ -1,0 +1,270 @@
+---
+layout: default
+title: "Well-being команд: діагностика і тренінги"
+description: "Психологічна підтримка працівників і команд: діагностика професійного благополуччя на основі наукових опитувальників, звіти для працівників і керівників, тренінги з профілактики вигорання, супровід керівників."
+permalink: /dlya-kompaniy/
+---
+
+<section class="hero">
+  <p class="kicker">Для компаній · HR · керівників</p>
+  <h1>Well-being команд</h1>
+  <p class="lede">
+    Діагностика і розвиток професійного благополуччя працівників на основі
+    науково доведених інструментів. Допомагаю побачити реальний стан команди —
+    рівень стресу, вигорання, психологічних ресурсів — і дати людям інструменти,
+    які працюють у щоденній роботі.
+  </p>
+  <a class="btn" href="#spivpratsia">Обговорити співпрацю</a>
+</section>
+
+<section class="section">
+  <h2>Коли компаніям це потрібно</h2>
+  <div class="stat-row">
+    <div class="stat">
+      <span class="stat-num">75%</span>
+      <span class="stat-text">працівників із хронічними ознаками вигорання розглядають можливість звільнення</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num">42%</span>
+      <span class="stat-text">називають надмірне навантаження головним джерелом стресу на роботі</span>
+    </div>
+  </div>
+  <p class="post-meta">
+    Дослідження Gradus Research, травень 2025, 1000 працівників в Україні.
+    <a href="https://forbes.ua/leadership/vigorannya-yak-biznes-rizik-chomu-pidtrimka-pratsivnikiv-narazi-klyuchova-dlya-uspikhu-kompaniy-analiz-direktorki-gradus-research-evgenii-bliznyuk-13062025-30517">Джерело</a>
+  </p>
+  <ul class="list-plain">
+    <li>Ознаки емоційного вигорання в команді: втома, цинізм, падіння продуктивності</li>
+    <li>Абсентеїзм і презентеїзм — люди формально на роботі, але без ресурсу</li>
+    <li>Висока плинність кадрів і складнощі з утриманням людей</li>
+    <li>Конфлікти, напруга, низька психологічна безпека в команді</li>
+    <li>Реорганізація, скорочення, зміна керівництва</li>
+    <li>Хронічний стрес воєнного часу, втрати, мобілізація колег</li>
+    <li>Керівники, які тримають усе на собі і самі на межі</li>
+  </ul>
+</section>
+
+<section class="section-alt">
+  <div class="wrap">
+    <h2>У чому корінь проблеми</h2>
+    <div class="cards cards-3">
+      <div class="card">
+        <span class="card-title">Вимоги vs ресурси</span>
+        <span class="card-text">Коли навантаження, дедлайни й емоційний тиск перевищують контроль,
+          підтримку та автономію, з'являються виснаження, тривога, презентеїзм.</span>
+      </div>
+      <div class="card">
+        <span class="card-title">Низький психологічний капітал</span>
+        <span class="card-text">За низьких рівнів надії, оптимізму, життєстійкості й віри в себе
+          людина не вірить, що може впоратися, і легше потрапляє у складні стани.</span>
+      </div>
+      <div class="card">
+        <span class="card-title">Порушення меж і балансу</span>
+        <span class="card-text">Коли людина не вміє чи не може «вимкнутися» після роботи, виникають
+          хронічна напруга, тривога, відчуття втрати контролю.</span>
+      </div>
+    </div>
+    <p>
+      А також перфекціонізм чи тривожний темперамент, втрата сенсу в роботі,
+      відсутність розвитку, брак підтримки керівника чи команди.
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Підхід</h2>
+  <p>
+    Людина приносить в організацію себе всю: неможливо бути лише
+    кваліфікованим фахівцем і не бути людиною зі своїми емоціями, звичками,
+    характером. Професійне функціонування погіршується, коли ми намагаємось
+    винести людське за межі робочого процесу.
+  </p>
+  <p>
+    Тому я дивлюся на команду системно — людина, команда, організація і
+    зв'язки між ними — і водночас працюю з кожною людиною. Методика
+    розроблена в межах мого магістерського дослідження (2025) і спирається
+    лише на валідні наукові опитувальники.
+  </p>
+  <div class="model-wrap">
+    <figure class="figure-zoom">
+      <a class="zoom" href="{{ '/assets/images/b2b/model-wellbeing.png' | relative_url }}">
+        <img src="{{ '/assets/images/b2b/model-wellbeing.png' | relative_url }}"
+             alt="Модель професійного благополуччя PERMA+4: позитивні емоції, залученість, стосунки, сенс, досягнення, фізичне здоров'я, мислення, середовище, економічна безпека"
+             loading="lazy" width="782" height="563">
+      </a>
+      <figcaption>Модель PERMA+4 — 9 складових професійного благополуччя</figcaption>
+    </figure>
+    <ul class="list-plain">
+      <li><strong>Професійне благополуччя</strong> — модель PERMA+4 (Positive Functioning at Work)</li>
+      <li><strong>Копінг-стратегії</strong> — як людина справляється зі стресом (Brief COPE)</li>
+      <li><strong>Психологічний капітал</strong> — віра в себе, надія, оптимізм, життєстійкість (PsyCap)</li>
+      <li><strong>Усвідомленість</strong> — здатність лишатися в контакті з тим, що відбувається (CAMS-R)</li>
+      <li><strong>Особистісні риси</strong> — «Велика п'ятірка» (Big Five)</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section-alt">
+  <div class="wrap">
+    <h2>Формати співпраці</h2>
+    <div class="cards">
+      <div class="card">
+        <span class="card-label">Опитування 10 хв · результат за 1 день</span>
+        <span class="card-title">1. Миттєвий старт</span>
+        <span class="card-text">Одна методика — «Positive Functioning at Work» (29 питань).
+          Швидка оцінка професійного благополуччя команди за 9 складовими,
+          інтерпретація і рекомендації з акцентом на зони уваги.</span>
+      </div>
+      <div class="card">
+        <span class="card-label">Опитування до 20 хв · результат за 3 дні</span>
+        <span class="card-title">2. Глибокий аналіз</span>
+        <span class="card-text">П'ять методик: благополуччя, копінг-стратегії, психологічний
+          капітал, усвідомленість, особистісні риси. Повна картина стану команди,
+          індивідуальні й командні звіти, рекомендації для кожної людини і для команди.</span>
+      </div>
+      <div class="card">
+        <span class="card-label">Аналіз + 2 сесії тренінгу по 3 години</span>
+        <span class="card-title">3. Аналіз + зміни</span>
+        <span class="card-text">Глибокий аналіз, а за 1–2 тижні після нього — розвивальний
+          тренінг, спрямований саме на ті психологічні ресурси, яких бракує команді.</span>
+      </div>
+      <div class="card">
+        <span class="card-label">Під ваш запит</span>
+        <span class="card-title">4. Кастомізоване рішення</span>
+        <span class="card-text">Персоналізована програма розвитку команди: поєднання
+          діагностики, тренінгів і підтримки під ваші цілі.</span>
+      </div>
+    </div>
+
+    <h3>Додаткові формати</h3>
+    <ul class="list-plain">
+      <li><strong>Супровід керівників.</strong> Індивідуальна робота з власниками й
+        топменеджерами: навантаження, рішення, відповідальність, особисті кризи.</li>
+      <li><strong>Конфіденційні консультації для працівників.</strong> Пакет
+        індивідуальних консультацій, які працівники можуть використати самостійно.</li>
+      <li><strong>Групи підтримки для працівників.</strong> Безпечний простір, щоб
+        говорити про стрес, втому і складні переживання.</li>
+    </ul>
+    <p class="post-meta">Вартість — за запитом, залежно від розміру команди і формату.</p>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Що отримує компанія</h2>
+  <p>
+    Кожен учасник особисто отримує <strong>індивідуальний звіт</strong>: загальний
+    підсумок, пояснення кожного показника і персональні рекомендації. Компанії
+    ці звіти не передаються. Керівник і HR отримують <strong>зведений
+    знеособлений звіт по команді</strong>: сильні сторони, зони уваги,
+    рекомендації і порівняння з показниками організації.
+  </p>
+  <div class="report-grid">
+    <figure class="figure-zoom">
+      <a class="zoom" href="{{ '/assets/images/b2b/zvit-osobystyi-1.png' | relative_url }}">
+        <img src="{{ '/assets/images/b2b/zvit-osobystyi-1.png' | relative_url }}" alt="Приклад індивідуального звіту: рівень професійного благополуччя" loading="lazy" width="1242" height="606">
+      </a>
+      <figcaption>Індивідуальний звіт: професійне благополуччя</figcaption>
+    </figure>
+    <figure class="figure-zoom">
+      <a class="zoom" href="{{ '/assets/images/b2b/zvit-osobystyi-2.png' | relative_url }}">
+        <img src="{{ '/assets/images/b2b/zvit-osobystyi-2.png' | relative_url }}" alt="Приклад індивідуального звіту: копінг-стратегії" loading="lazy" width="1247" height="393">
+      </a>
+      <figcaption>Індивідуальний звіт: копінг-стратегії</figcaption>
+    </figure>
+    <figure class="figure-zoom">
+      <a class="zoom" href="{{ '/assets/images/b2b/zvit-komanda-1.png' | relative_url }}">
+        <img src="{{ '/assets/images/b2b/zvit-komanda-1.png' | relative_url }}" alt="Приклад звіту по команді: сильні сторони, зони уваги, благополуччя порівняно з організацією" loading="lazy" width="1102" height="682">
+      </a>
+      <figcaption>Звіт по команді: сильні сторони й зони уваги</figcaption>
+    </figure>
+    <figure class="figure-zoom">
+      <a class="zoom" href="{{ '/assets/images/b2b/zvit-komanda-2.png' | relative_url }}">
+        <img src="{{ '/assets/images/b2b/zvit-komanda-2.png' | relative_url }}" alt="Приклад звіту по команді: психологічний капітал порівняно з організацією" loading="lazy" width="1117" height="292">
+      </a>
+      <figcaption>Звіт по команді: психологічний капітал</figcaption>
+    </figure>
+  </div>
+  <p class="post-meta">Приклади знеособлені. Натисніть на зображення, щоб збільшити.</p>
+</section>
+
+<section class="section-alt">
+  <div class="wrap">
+    <h2>Тренінг</h2>
+    <div class="cards cards-3">
+      <div class="card">
+        <span class="card-title">Практичний</span>
+        <span class="card-text">80% часу — практичні вправи. Глибше засвоєння через
+          власний досвід і «ага!»-моменти.</span>
+      </div>
+      <div class="card">
+        <span class="card-title">Згуртовує команду</span>
+        <span class="card-text">Будуються зв'язки 1:1, групові завдання підтримують
+          відчуття «ми» і зміцнюють робочі стосунки.</span>
+      </div>
+      <div class="card">
+        <span class="card-title">Інтерактивний</span>
+        <span class="card-text">Поєднання вправ і форм взаємодії тримає високу
+          залученість учасників.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Пілотний проєкт</h2>
+  <p>
+    Повний цикл — опитування, індивідуальні та командні звіти, дві сесії
+    тренінгу — я провів у міжнародній IT-компанії.
+  </p>
+  <blockquote class="quote">
+    «У рамках проєкту Євген організував збір даних через опитування, підготував
+    індивідуальні та командні звіти для співробітників та керівників, а також
+    провів дві інтерактивні сесії тренінгу. Зворотний зв'язок по тренінгу мав
+    42% Response Rate, при цьому 100% учасників оцінили тренінг як „Користь
+    вище середнього“ або „Дуже корисно“, а 80% учасників готові рекомендувати
+    тренінг своїм колегам. Підготовлені звіти та тренінг дозволили
+    підтвердити управлінські спостереження і надати цінну інформацію для
+    розвитку команд.»
+    <footer>HR-департамент міжнародної IT-компанії, Львів (назва — під NDA)</footer>
+  </blockquote>
+  <h3>Відгуки учасників тренінгів</h3>
+  <div class="quotes-small">
+    <blockquote>«Чудово організований тренінг, який дав багато інсайтів та дозволив повзаємодіяти з колегами.»</blockquote>
+    <blockquote>«Дякую, що провели такі зустрічі для нас, продемонстрували практики, зробили акцент на корисних речах, які можна робити тут і зараз.»</blockquote>
+    <blockquote>«Робота в маленьких групах — так легше чимось ділитись. Поради від Євгена прям в момент спілкування, це було круто!»</blockquote>
+  </div>
+</section>
+
+<section class="section-alt">
+  <div class="wrap">
+    <h2>Чому зі мною</h2>
+    <ul class="list-plain">
+      <li>Клінічний психолог і гештальт-психотерапевт, ведучий груп, коуч (ICF)</li>
+      <li>19 років у бізнесі: банківська сфера, а потім 13 років в IT — бізнес-аналітик,
+        менеджер продукту, керівник команди</li>
+      <li>10 років у розвитку персоналу: тренінги, зокрема авторські, індивідуальний
+        і груповий коучинг</li>
+      <li>100% eNPS моєї команди протягом 20 кварталів поспіль</li>
+    </ul>
+    <p><a href="{{ '/pro-mene/' | relative_url }}">Більше про мене →</a></p>
+  </div>
+</section>
+
+<section class="section" id="spivpratsia">
+  <h2>Обговорити співпрацю</h2>
+  <p>
+    Розкажіть коротко про команду і запит. Я напишу, щоб домовитися про
+    знайомство. Мета першої розмови — знайти точки спільного інтересу.
+  </p>
+  <div class="tally-block">
+    <iframe data-tally-src="https://tally.so/embed/obXMW5?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+            loading="lazy" width="100%" height="700" frameborder="0"
+            title="Обговорити співпрацю: well-being команди"></iframe>
+  </div>
+  <p class="post-meta">
+    Або напишіть на <a href="mailto:yevhen.kochubei@gmail.com">yevhen.kochubei@gmail.com</a>
+    чи в <a href="https://www.linkedin.com/in/yevhenkochubei/">LinkedIn</a>.
+  </p>
+</section>
+
+<script async src="https://tally.so/widgets/embed.js"></script>

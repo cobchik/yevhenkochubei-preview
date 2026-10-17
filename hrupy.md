@@ -1,0 +1,30 @@
+---
+layout: default
+title: Терапевтичні групи
+description: "Терапевтичні групи з психотерапевтом Євгеном Кочубеєм: чоловічі та змішані, онлайн і в Києві. Залиште контакт, щоб дізнатися про новий набір."
+permalink: /hrupy/
+---
+
+<section class="hero">
+  <p class="kicker">Групова терапія</p>
+  <h1>Терапевтичні групи</h1>
+  <p class="lede">
+    Групова терапія — простір взаємної підтримки, де ви бачите себе через
+    інших, вчитеся будувати стосунки та проживати складні переживання в
+    безпеці спільноти.
+  </p>
+  <p>
+    Зараз групи набрані. Заповніть цю форму, якщо ви хочете, щоб вас
+    повідомили про новий набір у групу. Це ні до чого вас не зобов'язує.
+  </p>
+</section>
+
+<section class="section">
+  <div class="tally-block">
+    <iframe data-tally-src="https://tally.so/embed/aQVq2W?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+            loading="lazy" width="100%" height="300" frameborder="0"
+            title="Повідомити про новий набір"></iframe>
+  </div>
+</section>
+
+<script async src="https://tally.so/widgets/embed.js"></script>
